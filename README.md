@@ -1,2 +1,2 @@
 # Dashboard_Institute
-Exec Hub
+Executive Strategy Hub
